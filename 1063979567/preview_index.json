@@ -1,7 +1,7 @@
 {
   "qq_number": "3567055800",
   "group_number": "1063979567",
-  "updated_at": "2026-04-23T15:52:38.940978",
+  "updated_at": "2026-06-20T01:44:38+00:00",
   "skins": [
     {
       "name": "桔梗｜猫咪气①",
@@ -32,6 +32,12 @@
       "file": "猫咪气①.bds",
       "thumb": "猫咪气①.bds_py_26_light_thumb.png",
       "full": "猫咪气①.bds_py_26_light.png"
+    },
+    {
+      "name": "杳杳［掉落2］QQ362286062二传替我挡灾",
+      "file": "掉落2.bds",
+      "thumb": "掉落2.bds_py_26_light_thumb.png",
+      "full": "掉落2.bds_py_26_light_thumb.png"
     }
   ]
 }
