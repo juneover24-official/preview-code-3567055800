@@ -1,7 +1,7 @@
 {
   "qq_number": "3567055800",
   "group_number": "1063979567",
-  "updated_at": "2026-06-20T02:17:20+00:00",
+  "updated_at": "2026-06-28T13:52:39+00:00",
   "skins": [
     {
       "name": "桔梗｜猫咪气①",
@@ -44,6 +44,12 @@
       "file": "掉落2融.bdi",
       "thumb": "掉落2融.bdi_py_26_light_thumb.png",
       "full": "掉落2融.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "保底071翻新",
+      "file": "保底071翻新.bdi",
+      "thumb": "保底071翻新.bdi_py_26_light_thumb.png",
+      "full": "保底071翻新.bdi_py_26_light_thumb.png"
     }
   ]
 }
