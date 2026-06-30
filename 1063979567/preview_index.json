@@ -1,7 +1,7 @@
 {
   "qq_number": "3567055800",
   "group_number": "1063979567",
-  "updated_at": "2026-06-29T07:35:42+00:00",
+  "updated_at": "2026-06-30T03:56:32+00:00",
   "skins": [
     {
       "name": "桔梗｜猫咪气①",
@@ -56,6 +56,12 @@
       "file": "鱼の奶味创口贴裹住破碎少女心.bdi",
       "thumb": "鱼の奶味创口贴裹住破碎少女心.bdi_py_26_light_thumb.png",
       "full": "鱼の奶味创口贴裹住破碎少女心.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "LianYiの瓶邪",
+      "file": "LianYiの瓶邪.bds",
+      "thumb": "LianYiの瓶邪.bds_py_26_light_thumb.png",
+      "full": "LianYiの瓶邪.bds_py_26_light_thumb.png"
     }
   ]
 }
