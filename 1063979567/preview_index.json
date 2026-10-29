@@ -1,7 +1,7 @@
 {
   "qq_number": "3567055800",
   "group_number": "1063979567",
-  "updated_at": "2026-10-29T12:41:38+00:00",
+  "updated_at": "2026-10-29T12:41:46+00:00",
   "skins": [
     {
       "name": "桔梗｜猫咪气①",
@@ -97,6 +97,13 @@
       "thumb": "菠萝包の幸福音乐节.bdi_py_26_light_thumb.png",
       "full": "菠萝包の幸福音乐节.bdi_py_26_light_thumb.png",
       "file_id": "2849f90d4951cf06b256b6aa6e8eed7a"
+    },
+    {
+      "name": "婷の永556",
+      "file": "婷の永556.bds",
+      "thumb": "婷の永556.bds_py_26_light_thumb.png",
+      "full": "婷の永556.bds_py_26_light_thumb.png",
+      "file_id": "247b43c0584a7a30d5b203e042018039"
     }
   ]
 }
