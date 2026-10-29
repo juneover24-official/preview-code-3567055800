@@ -1,7 +1,7 @@
 {
   "qq_number": "3567055800",
   "group_number": "1063979567",
-  "updated_at": "2026-10-29T12:40:53+00:00",
+  "updated_at": "2026-10-29T12:41:00+00:00",
   "skins": [
     {
       "name": "桔梗｜猫咪气①",
@@ -83,6 +83,13 @@
       "thumb": "您的美人甜绒系贴纸11.bds_py_26_light_thumb.png",
       "full": "您的美人甜绒系贴纸11.bds_py_26_light_thumb.png",
       "file_id": "1318bc3d006875cb9aef01203c634295"
+    },
+    {
+      "name": "Xx睡不醒のkitty的小手机",
+      "file": "Xx睡不醒のkitty的小手机无漂2.bds",
+      "thumb": "Xx睡不醒のkitty的小手机无漂2.bds_py_26_light_thumb.png",
+      "full": "Xx睡不醒のkitty的小手机无漂2.bds_py_26_light_thumb.png",
+      "file_id": "2dca5c580a4485f588f01eca82f2f0dc"
     }
   ]
 }
