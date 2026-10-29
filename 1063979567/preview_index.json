@@ -1,7 +1,7 @@
 {
   "qq_number": "3567055800",
   "group_number": "1063979567",
-  "updated_at": "2026-10-29T12:41:52+00:00",
+  "updated_at": "2026-10-29T12:42:03+00:00",
   "skins": [
     {
       "name": "桔梗｜猫咪气①",
@@ -104,6 +104,13 @@
       "thumb": "婷の永556.bds_py_26_light_thumb.png",
       "full": "婷の永556.bds_py_26_light_thumb.png",
       "file_id": "247b43c0584a7a30d5b203e042018039"
+    },
+    {
+      "name": "宵の灰调爱心 音一",
+      "file": "宵の灰调爱心音二.bds",
+      "thumb": "宵の灰调爱心音二.bds_py_26_light_thumb.png",
+      "full": "宵の灰调爱心音二.bds_py_26_light_thumb.png",
+      "file_id": "e86055d5ef1b6074b67046680d214913"
     }
   ]
 }
