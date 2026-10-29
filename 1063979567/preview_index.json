@@ -1,7 +1,7 @@
 {
   "qq_number": "3567055800",
   "group_number": "1063979567",
-  "updated_at": "2026-10-29T12:40:33+00:00",
+  "updated_at": "2026-10-29T12:40:45+00:00",
   "skins": [
     {
       "name": "桔梗｜猫咪气①",
@@ -76,6 +76,13 @@
       "thumb": "SoftAgony.bdi_py_26_light_thumb.png",
       "full": "SoftAgony.bdi_py_26_light_thumb.png",
       "file_id": "6a71f31040503e90e5dd49d6beeb6f49"
+    },
+    {
+      "name": "雪の甜绒贴纸底包1",
+      "file": "您的美人甜绒系贴纸11.bds",
+      "thumb": "您的美人甜绒系贴纸11.bds_py_26_light_thumb.png",
+      "full": "您的美人甜绒系贴纸11.bds_py_26_light_thumb.png",
+      "file_id": "1318bc3d006875cb9aef01203c634295"
     }
   ]
 }
