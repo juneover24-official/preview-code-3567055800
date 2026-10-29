@@ -1,7 +1,7 @@
 {
   "qq_number": "3567055800",
   "group_number": "1063979567",
-  "updated_at": "2026-10-29T12:41:00+00:00",
+  "updated_at": "2026-10-29T12:41:32+00:00",
   "skins": [
     {
       "name": "桔梗｜猫咪气①",
@@ -90,6 +90,13 @@
       "thumb": "Xx睡不醒のkitty的小手机无漂2.bds_py_26_light_thumb.png",
       "full": "Xx睡不醒のkitty的小手机无漂2.bds_py_26_light_thumb.png",
       "file_id": "2dca5c580a4485f588f01eca82f2f0dc"
+    },
+    {
+      "name": "菠萝包の幸福音乐节",
+      "file": "菠萝包の幸福音乐节.bdi",
+      "thumb": "菠萝包の幸福音乐节.bdi_py_26_light_thumb.png",
+      "full": "菠萝包の幸福音乐节.bdi_py_26_light_thumb.png",
+      "file_id": "2849f90d4951cf06b256b6aa6e8eed7a"
     }
   ]
 }
