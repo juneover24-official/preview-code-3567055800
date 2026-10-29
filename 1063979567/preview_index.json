@@ -1,7 +1,7 @@
 {
   "qq_number": "3567055800",
   "group_number": "1063979567",
-  "updated_at": "2026-06-30T03:56:32+00:00",
+  "updated_at": "2026-10-29T12:39:57+00:00",
   "skins": [
     {
       "name": "桔梗｜猫咪气①",
@@ -62,6 +62,13 @@
       "file": "LianYiの瓶邪.bds",
       "thumb": "LianYiの瓶邪.bds_py_26_light_thumb.png",
       "full": "LianYiの瓶邪.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "Soft Agony",
+      "file": "SoftAgony.bds",
+      "thumb": "SoftAgony.bds_py_26_light_thumb.png",
+      "full": "SoftAgony.bds_py_26_light_thumb.png",
+      "file_id": "22106578facbc697dc088907fdb6fbfb"
     }
   ]
 }
