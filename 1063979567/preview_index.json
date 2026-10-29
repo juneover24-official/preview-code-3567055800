@@ -1,7 +1,7 @@
 {
   "qq_number": "3567055800",
   "group_number": "1063979567",
-  "updated_at": "2026-10-29T12:39:57+00:00",
+  "updated_at": "2026-10-29T12:40:22+00:00",
   "skins": [
     {
       "name": "桔梗｜猫咪气①",
@@ -69,6 +69,13 @@
       "thumb": "SoftAgony.bds_py_26_light_thumb.png",
       "full": "SoftAgony.bds_py_26_light_thumb.png",
       "file_id": "22106578facbc697dc088907fdb6fbfb"
+    },
+    {
+      "name": "Soft Agony",
+      "file": "SoftAgony.bdi",
+      "thumb": "SoftAgony.bdi_py_26_light_thumb.png",
+      "full": "SoftAgony.bdi_py_26_light_thumb.png",
+      "file_id": "6a71f31040503e90e5dd49d6beeb6f49"
     }
   ]
 }
